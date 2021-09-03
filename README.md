@@ -1,3 +1,7 @@
+Neural network "neural_UP.py : prediction of graduate program from undergraduate title, research interest field, and gradate level.
+Train_data = 0.8*data , Test_data = 0.2*data
+
+
 # Numeric Optics
 
 A python library for constructing and training neural networks based on lenses
